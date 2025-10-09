@@ -1,0 +1,1 @@
+# Kursova-robota-AIC-Ambrosov-D.M.-44-grupa-2025
