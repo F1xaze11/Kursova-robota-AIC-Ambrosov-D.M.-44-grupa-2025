@@ -17,7 +17,7 @@
 - **C# / .NET WPF**
 - **SQLite** + **ADO.NET** для доступу до БД
 - **XAML** ресурси/стилі
-- **Visual Studio 2022+**
+- **Visual Studio 2022**
 
 ---
 
